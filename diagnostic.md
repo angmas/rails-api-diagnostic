@@ -79,5 +79,5 @@ What is the command to scaffold a pet with a name and age attributes (hint:
 Also think of the data types for each attribute)?
 
 ```bash
-rails generate model Pet name:string age:integer
+rails generate scaffold Pet name:string age:integer
 ```
